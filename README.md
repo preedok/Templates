@@ -1,1 +1,1 @@
-# Templates
+# Template Backend (ExpressJS) and Frontend (ReactJS)
